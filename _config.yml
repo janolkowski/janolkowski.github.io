@@ -21,7 +21,7 @@ repository               : "janolkowski/janolkowski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portret-the-mall.png"
+  avatar           : "portret-the-mall.jpg"
   name             : "Jan Olkowski"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in CS"
