@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jan Olkowski / Web Page"
+title                    : "Jan Olkowski's Web Page"
 title_separator          : "-"
 name                     : &name "Jan Olkowski"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "janolkowski/janolkowski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portret-the-mall.jpg"
   name             : "Jan Olkowski"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in CS"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "janolkowski"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
